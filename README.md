@@ -15,3 +15,7 @@ Jobs that will be made by the script
   Checks if the path is existing
   Changes the ownership of the folder
   Change the permission of the folder
+
+
+To check if provisioning is successful
+  <public_ip or public_dns>/phpinfo.php
